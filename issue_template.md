@@ -28,8 +28,6 @@ BORRA esto y pon el nombre del Reino
 
 BORRA esto y pon la fecha donde fue encontrado el error, fallo, glitch etc.
 
-**TDB version:**  CHANGEME Version of the TrinityCore database
-
 **Versión de Juego** 3.3.5a
 
 [//]: # (Esto es solo para informar de los problemas, no para otras cosas.)
