@@ -30,4 +30,6 @@ BORRA esto y pon la fecha donde fue encontrado el error, fallo, glitch etc.
 
 **Versión de Juego** 3.3.5a
 
+**Arrastra aquí algunas imágenes o URLs de vídeos donde se vea el problema que reportas:** 
+
 [//]: # (Esto es solo para informar de los problemas, no para otras cosas.)
